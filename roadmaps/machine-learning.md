@@ -34,6 +34,8 @@ Collections of thoughts, material and insight for a path to become a machine lea
 
 ## Google
 
+[Machine Learning on Google Cloud](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp)
+
 [Advanced Machine Learning on Google Cloud](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp)
 
 [Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
